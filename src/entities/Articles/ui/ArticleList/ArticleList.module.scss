@@ -1,0 +1,20 @@
+.ArticleList {
+  margin-top: 20px;
+
+  a,
+  a:visited {
+    text-decoration: none;
+  }
+}
+
+.LIST {
+  .card {
+    margin-bottom: 30px;
+  }
+}
+
+.TILE {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 30px;
+}

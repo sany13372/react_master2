@@ -1,0 +1,42 @@
+.Modal {
+  position: fixed;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  z-index: -5;
+  opacity: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.content {
+  padding: 20px;
+  background: var(--bg-color);
+  border-radius: 10px;
+  max-width: 60%;
+  transition: transform 0.3s;
+  transform: scale(0.2);
+}
+
+@media (max-width: 767px) {
+  .content {
+    max-width: 600px;
+  }
+}
+
+.opened {
+  z-index: var(--modal-z-index);
+  opacity: 1;
+
+  .content {
+    transform: scale(1);
+  }
+}
+
+.isClosing {
+  .content {
+    transform: scale(0.2);
+  }
+}

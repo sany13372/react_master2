@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkreact_middle=self.webpackChunkreact_middle||[]).push([[218],{6218:(e,t,c)=>{c.r(t),c.d(t,{default:()=>d}),c(7294);var r=c(9887),s=c(3468),a=c(5893);const d=()=>{const{t:e}=(0,r.$G)("about");return(0,a.jsx)(s.T,{children:e("О сайте")})}}}]);

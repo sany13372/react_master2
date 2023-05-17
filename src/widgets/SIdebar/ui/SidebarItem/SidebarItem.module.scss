@@ -1,0 +1,18 @@
+.icon {
+  fill: var(--inverted-primary-color);
+  width: 20px;
+}
+
+.link {
+  margin-left: 5px;
+  opacity: 1;
+}
+
+.collapsed {
+  .link {
+    width: 0;
+    opacity: 0;
+    transition: 0.1s;
+    height: var(--line-height-m);
+  }
+}

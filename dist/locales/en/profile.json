@@ -1,0 +1,23 @@
+{
+  "profile page": "Profile",
+  "edit": "Edit",
+  "input firstname": "Enter your name",
+  "input lastname": "Enter last name",
+  "profile error": "An error occurred while loading the profile",
+  "profile error text": "Try reloading the page",
+  "Cancel": "Cancel",
+  "Save": "Save",
+  "input age": "Enter age",
+  "input city": "Enter city",
+  "input username": "Enter Nickname",
+  "input avatar": "Enter link to avatar",
+  "currency": "Currency",
+  "Country": "Country",
+  "incorrect age": "Incorrect age",
+  "incorrect  city": "Incorrect city",
+  "incorrect user data": "First and last name are required",
+  "incorrect data": "No profile data",
+  "incorrect server error": "Server error on save Server error on save",
+  "profile not found": "Profile not found",
+  "Your review": "your feedback"
+}

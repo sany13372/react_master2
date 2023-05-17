@@ -1,0 +1,17 @@
+.ProfileCard {
+  border: 1px solid var(--inverted-bg-color);
+  padding: 20px;
+}
+
+.editForm {
+  border: 1px solid var(--inverted-primary-color);
+}
+
+.loading,
+.error {
+  height: 300px;
+}
+
+.avatarWrapper {
+  width: 100%;
+}

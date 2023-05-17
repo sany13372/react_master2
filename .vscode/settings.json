@@ -1,0 +1,32 @@
+{
+  // "javascript.inlayHints.enumMemberValues.enabled": true,
+  // "javascript.inlayHints.functionLikeReturnTypes.enabled": true,
+  // "javascript.inlayHints.parameterNames.enabled": "all",
+  // "javascript.inlayHints.parameterTypes.enabled": true,
+  // "javascript.inlayHints.propertyDeclarationTypes.enabled": true,
+  // "javascript.inlayHints.variableTypes.enabled": true,
+  // "typescript.inlayHints.enumMemberValues.enabled": true,
+  // "typescript.inlayHints.parameterTypes.enabled": true,
+  // "typescript.inlayHints.propertyDeclarationTypes.enabled": true,
+  "i18n-ally.localesPaths": [
+    "public/locales",
+    "src/shared/config/i18n"
+  ],
+  "i18n-ally.keystyle": "nested",
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true, // ESLint auto format on save
+    "source.fixAll.stylelint": true
+  },
+  "eslint.validate": [
+    "javascript",
+    "typescript"
+  ],
+  "stylelint.enable": true,
+  "css.validate": true,
+  "scss.validate": true,
+  "stylelint.validate": [
+    "css",
+    "scss"
+  ],
+  "editor.formatOnSave": true // Prettier auto format on save
+}

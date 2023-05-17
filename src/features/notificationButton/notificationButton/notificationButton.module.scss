@@ -1,0 +1,15 @@
+.notifications_pc,
+.notifications_mob {
+  min-height: 150px;
+  overflow-y: auto;
+}
+
+.notifications_pc {
+  width: 500px;
+  max-height: 300px;
+}
+
+.notifications_mob {
+  width: 100%;
+  height: calc(100vh - 130px);
+}

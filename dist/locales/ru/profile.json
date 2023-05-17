@@ -1,0 +1,22 @@
+{
+  "profile page": "Профиль",
+  "edit": "Редактировать",
+  "input firstname": "Введите имя",
+  "input lastname": "Введите фамилию",
+  "profile error": "Произошла ошибка при загрузке профиля",
+  "profile error text": "Попробуйте перезагрузить страницу",
+  "Cancel": "Отменить",
+  "Save": "Сохранить",
+  "input age": "Введите возраст",
+  "input city": "Введите город",
+  "input username": "Введите никнейм",
+  "input avatar": "Введите ссылку на аватар",
+  "currency": "Валюта",
+  "Country": "Страна",
+  "incorrect age": "Некорректный возраст",
+  "incorrect  city": "Некорректный город",
+  "incorrect user data": "Имя и фамилия обязательны",
+  "incorrect data": "Нет данных о профиле",
+  "incorrect server error": "Серверная ошибка при сохраненииСерверная ошибка при сохранении",
+  "profile not found": "Профиль не найден"
+}
